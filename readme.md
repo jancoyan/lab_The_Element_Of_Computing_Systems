@@ -1,4 +1,10 @@
-这里是《计算机系统要素》每一章的实验。
+## Repo Introduction
+
+这里是《计算机系统要素》每一章的lab。
+
+在每一个分chapter文件夹里都会有我做相关实验的思路。
+
+## Book Introduction
 
 这本书长这样
 
