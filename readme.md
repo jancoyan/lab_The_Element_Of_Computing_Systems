@@ -8,7 +8,7 @@
 
 这本书长这样
 
-<img src="./assets/cover.png" alt="cover" style="zoom:50%;" />
+![book](./assets/cover.png)
 
 以下是本书的内容简介
 
