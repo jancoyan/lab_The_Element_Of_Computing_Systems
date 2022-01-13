@@ -26,7 +26,7 @@ out&cmp&tst
 
 Xor、Mux、DMux
 
-16位Not、Anderson、Or、Mux
+16位Not、And、Or、Mux
 
 多通道Or、Mux、DMux
 
@@ -80,6 +80,10 @@ Add16(a=in,b[0]=true,b[1..15]=false,out=out);
 $$
 
 ## 算数逻辑单元 ALU
+
+对于if语句，我们已经实现了一个可以看作是if语句的芯片：mux16
+
+这个芯片会根据输入的情况进行相应的输出。
 
 
 
