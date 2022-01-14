@@ -65,7 +65,7 @@ $$
 A \overline{B} + \overline{A}B
 $$
 
-## Mul
+## Mux
 
 $$
 \overline{sel} \ A + sel \ B
